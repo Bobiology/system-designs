@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T06:53:21.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="gRSa1URF9ZZN7PjF7IJY" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-10T14:18:14.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="97gAtSlbPS_zpbihP6Ek" version="16.2.4" type="github" pages="3">
   <diagram id="SFGFKdBsq_LgU8wBkwlt" name="HLD">
     <mxGraphModel dx="1186" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E6ZJZUev4cxzvs1RTEKU" name="Use Case">
-    <mxGraphModel dx="1186" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="769" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j_flr7XlIJxbWJwG-iVD-0" />
         <mxCell id="j_flr7XlIJxbWJwG-iVD-1" parent="j_flr7XlIJxbWJwG-iVD-0" />
@@ -156,6 +156,120 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="130" y="260" as="sourcePoint" />
             <mxPoint x="340" y="144.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RtlaSzf-DrLupRlzeGUS" name="sequence">
+    <mxGraphModel dx="769" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-0" />
+        <mxCell id="pQbie3UsM-gM0Oni82FE-1" parent="pQbie3UsM-gM0Oni82FE-0" />
+        <mxCell id="pQbie3UsM-gM0Oni82FE-2" value="UI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-1">
+          <mxGeometry x="140" y="30" width="100" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-2">
+          <mxGeometry x="45" y="60" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-2">
+          <mxGeometry x="45" y="234" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-3" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;strokeColor=#FF99CC;fillColor=#0066CC;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-1">
+          <mxGeometry x="40" y="30" width="20" height="379" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-4" value="Checklist&lt;br&gt;Microservice" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-1">
+          <mxGeometry x="314" y="30" width="100" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-4">
+          <mxGeometry x="45" y="60" width="10" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-10" value="Document&lt;br&gt;Checklist JSON Resp" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" parent="pQbie3UsM-gM0Oni82FE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-118" y="125" as="targetPoint" />
+            <mxPoint x="41" y="125" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-15" value="JPA Query&lt;br&gt;Request/Response" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;entryX=-0.1;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pQbie3UsM-gM0Oni82FE-4">
+          <mxGeometry x="0.3056" y="-15" width="60" relative="1" as="geometry">
+            <mxPoint x="48" y="166" as="sourcePoint" />
+            <mxPoint x="385" y="166" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-4">
+          <mxGeometry x="43" y="232" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-19" value="Documents&lt;br&gt;Submission" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="pQbie3UsM-gM0Oni82FE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-119" y="247.0000000000001" as="sourcePoint" />
+            <mxPoint x="43" y="247.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-20" value="Response" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" parent="pQbie3UsM-gM0Oni82FE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-117" y="301" as="targetPoint" />
+            <mxPoint x="43" y="301" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-5" value="Checklist&lt;br&gt;API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeColor=#FF99CC;fillColor=#0066CC;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-1">
+          <mxGeometry x="480" y="30" width="100" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#FF99CC;fillColor=#0066CC;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-5">
+          <mxGeometry x="44" y="60" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-12" value="Checklist &lt;br&gt;JSON Req" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="pQbie3UsM-gM0Oni82FE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="83" as="sourcePoint" />
+            <mxPoint x="44" y="83.00000000000011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-13" value="Checklist JSON Res" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" parent="pQbie3UsM-gM0Oni82FE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-111" y="116" as="targetPoint" />
+            <mxPoint x="44" y="116" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-6" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-1">
+          <mxGeometry x="655" y="30" width="100" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-6">
+          <mxGeometry x="45" y="130" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-9" value="Document Checklist &lt;br&gt;JSON Req" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;align=center;" edge="1" parent="pQbie3UsM-gM0Oni82FE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="100" as="sourcePoint" />
+            <mxPoint x="359" y="100.00000000000011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-21" value="Document&lt;br&gt;Storage" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeColor=#FF99CC;fillColor=#0066CC;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-1">
+          <mxGeometry x="480" y="218" width="89" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#FF99CC;fillColor=#0066CC;" vertex="1" parent="pQbie3UsM-gM0Oni82FE-21">
+          <mxGeometry x="39.5" y="44" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-24" value="Documents&lt;br&gt;Archiving" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="pQbie3UsM-gM0Oni82FE-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="367" y="289" as="sourcePoint" />
+            <mxPoint x="519.5" y="289" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-26" value="Response" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="pQbie3UsM-gM0Oni82FE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="367" y="317" as="targetPoint" />
+            <mxPoint x="517" y="317" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-27" value="Customer Filling &lt;br&gt;SMSF Data" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="pQbie3UsM-gM0Oni82FE-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="52" y="122" as="sourcePoint" />
+            <mxPoint x="185" y="122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQbie3UsM-gM0Oni82FE-28" value="Customer Uploading &lt;br&gt;Documents" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="pQbie3UsM-gM0Oni82FE-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="52" y="306" as="sourcePoint" />
+            <mxPoint x="184" y="306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

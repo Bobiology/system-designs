@@ -1,1 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T05:16:54.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="kfJV5hBWmid-1O00wn7G" version="16.2.4" type="github"><diagram id="SFGFKdBsq_LgU8wBkwlt" name="HLD">7VrbctowEP0aHsvIcnzhMYG0zTRpM2U6bR+FLWy1xnJlOUC/vjKWL0I2EAKBoXlJpLW0ts7Zs17J9MzhbPGBoSR8oD6OehD4i5456kHo2APxNzcsC4NlgcIQMOIXJqM2jMlfLI3lsIz4OFUGckojThLV6NE4xh5XbIgxOleHTWmk3jVBAdYMYw9FuvU78XlYWF3o1PaPmARheWejXPAMlYPlStIQ+XTeMJm3PXPIKOVFa7YY4ijHrsSlmPe+42r1YAzHfJcJd4uHz/PhdGyDz9fZByN9HE2H7+QyUr4sF4x9sX7ZjWks/t0wmsU+zt0A0aOMhzSgMYruKU2E0RDGX5jzpWQPZZwKU8hnkbyKF4T/aLR/5q760JLd0UK6XnWWZSfmbPmj2WlOy/v1vFWvnFgsKV9HJ1LSlNKMeXgDPGXEIRZgvmEcrPgUOsB0hsXziHkMR4iTJ/U5kIzIoBpXkyYakrdncGhcFY6fUJTJWw1D7P2+JykX5uvHux60I/H4NxMmWkHe+or/ZDi/3ML+PZoIDSsEoogEsWh7AkHMhOEJM06ESq7lhRnx/WgVKzglf9Fk5S8nI6Ek5qsVWzc9a1TRkzvAizYJy8m1cJrEdQexjr70/k6EDJCilEmo5HVnfqTzx3wxDTcDdQadTlPMNT6rR9qf4ipg23VaS/K2th5OtqBvNYRr7KFa402y6s2hJtkR9bIZzrUCwbckosi/DHEWDjaq07KvFHm+UJ3Hl6OhsfftTmNLld88JByPE7SK3bkolVQOO3HXJNCJ5BVQQHRkd15XLUZJWtioWGxwpBh330qLTXkK7pinzJOWFnZnntJrCq3oAKLKuIwk5m7LYYZtO4r84NnnMNBKzbH0CfrOPkVE31EUukWeq94jZkSAkwfRqTR7dVLNDjTNNpSpbwTSy5CoAdpBrzUKqsOIM1bl5kL/8KrcS5TQNJuyzLE1nTdt7kCv26rNT13avJDXp7F1D2BBxzl7bcKN2jz6JhzupVWr94wX6An0aJ1Sj2UEt9a3gmjK8uPhy9Bgx4FH4/1oQlepYc9/H26+7ttS2WM6O+4xDUWActoBNPgCzawRJUMADtaOYcCai0LzclbzS8OaI8MGmx0VSUFzdLCwsJ5TAZdb1TShcXopYu84NZDuQd90XUPh6KVH4hX1ildHnX/EA/J2xqNWxh+Ix2iK2RPxdL5f+9huXXUnP7cb/Mc5dYe6xtyxrul43b7SPsPZlAGr07kL2foPtiQ7A0D73EsZczthJ05UlnNmHxj0z96jGw2lNERJ3vSWERFwMXM7VpMC2PtJZUDe72AF95eMCzdY2tMiuRnWYQA2177gVMg1ELZbAHaPBbBeRjU2R+OOzdEWcFGaFD/TmZJFHryHAG693oSWDpx7GOBEt/7FTqH9+mdP5u0/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-10T05:30:26.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="8kPj7J8hJ1cVzjLdVgcg" version="16.2.4" type="github">
+  <diagram id="SFGFKdBsq_LgU8wBkwlt" name="HLD">
+    <mxGraphModel dx="769" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="IxMNwCfS60NAuG1sPDfC-1" target="IxMNwCfS60NAuG1sPDfC-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-14" value="CheckList API&lt;br&gt;Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IxMNwCfS60NAuG1sPDfC-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.209" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLN3g65VDf-i_EO2xMAO-1" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#B5739D;" vertex="1" connectable="0" parent="IxMNwCfS60NAuG1sPDfC-7">
+          <mxGeometry x="0.5373" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="IxMNwCfS60NAuG1sPDfC-1" target="IxMNwCfS60NAuG1sPDfC-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-22" value="Documents Upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IxMNwCfS60NAuG1sPDfC-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.2564" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLN3g65VDf-i_EO2xMAO-7" value="7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IxMNwCfS60NAuG1sPDfC-21">
+          <mxGeometry x="0.4957" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-1" value="UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="IxMNwCfS60NAuG1sPDfC-2" target="IxMNwCfS60NAuG1sPDfC-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-16" value="Document&lt;br&gt;CheckList API Req" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IxMNwCfS60NAuG1sPDfC-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.1667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLN3g65VDf-i_EO2xMAO-2" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IxMNwCfS60NAuG1sPDfC-8">
+          <mxGeometry x="0.6923" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IxMNwCfS60NAuG1sPDfC-2" target="IxMNwCfS60NAuG1sPDfC-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-19" value="CheckList&lt;br&gt;Res" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IxMNwCfS60NAuG1sPDfC-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.0769" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLN3g65VDf-i_EO2xMAO-5" value="5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IxMNwCfS60NAuG1sPDfC-10">
+          <mxGeometry x="0.4458" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.233;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IxMNwCfS60NAuG1sPDfC-2" target="IxMNwCfS60NAuG1sPDfC-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-18" value="ChecKList&lt;br&gt;Req" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IxMNwCfS60NAuG1sPDfC-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.5277" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLN3g65VDf-i_EO2xMAO-3" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IxMNwCfS60NAuG1sPDfC-11">
+          <mxGeometry x="0.165" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IxMNwCfS60NAuG1sPDfC-2" target="IxMNwCfS60NAuG1sPDfC-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-20" value="Document storage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IxMNwCfS60NAuG1sPDfC-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.0328" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLN3g65VDf-i_EO2xMAO-8" value="8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IxMNwCfS60NAuG1sPDfC-12">
+          <mxGeometry x="0.7623" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="101" as="sourcePoint" />
+            <mxPoint x="160" y="101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-15" value="CheckList&lt;br&gt;API Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IxMNwCfS60NAuG1sPDfC-13" vertex="1" connectable="0">
+          <mxGeometry x="0.3881" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLN3g65VDf-i_EO2xMAO-6" value="6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IxMNwCfS60NAuG1sPDfC-13">
+          <mxGeometry x="-0.5373" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-2" value="Checklist&lt;br&gt;Microservice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="IxMNwCfS60NAuG1sPDfC-3" target="IxMNwCfS60NAuG1sPDfC-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-17" value="CheckList API Res" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IxMNwCfS60NAuG1sPDfC-9" vertex="1" connectable="0">
+          <mxGeometry x="0.1026" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLN3g65VDf-i_EO2xMAO-4" value="4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IxMNwCfS60NAuG1sPDfC-9">
+          <mxGeometry x="-0.7179" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-3" value="CheckList API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-4" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="340" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IxMNwCfS60NAuG1sPDfC-5" value="Document Storage" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="160" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tLN3g65VDf-i_EO2xMAO-9" value="&lt;h1&gt;To-Be&lt;/h1&gt;&lt;p&gt;1. UI initiates document checklist API by providing required data fields.&lt;/p&gt;&lt;p&gt;2. Document checklist microservice saves the request to a db.&lt;/p&gt;&lt;p&gt;3. The microservice also initiate a call to the Checklist API&lt;/p&gt;&lt;p&gt;4. Checklist API responds with a list of expected documents that need to be uploaded.&lt;/p&gt;&lt;p&gt;5. A response from the document checklist API is saved in the DB, alongside the corresponding request.&lt;/p&gt;&lt;p&gt;6. Response on step 4 is also send to the UI.&lt;/p&gt;&lt;p&gt;7. UI sends uploaded documents to the microservice.&lt;/p&gt;&lt;p&gt;8. Microservice uploads the documents to a remote cloud storage and returns a reference to the documents to the UI.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="560" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
